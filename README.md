@@ -4,7 +4,7 @@ A hands-on workshop to explain the basics of Git, Docker,
 and Postgres. In this, you will learn the foundations of using 
 git for project collaboration, docker for app containerization, 
 and postgres for storing and retrieving application data. 
-
+joshu sAn
 ## Prerequisites
 
 ##### Any Linux machine (ubuntu is preferred) with following packages installed
